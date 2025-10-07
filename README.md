@@ -47,6 +47,10 @@ uv sync
 uv run matplotlib_visualization.py
 ```
 
+<div align="center">
+	<video src="https://github.com/user-attachments/assets/5e74c04c-4d32-4e6a-a7ab-ea9e3cfdf5cf" controls muted loop width="720" style="max-width: 100%; border-radius: 12px;"></video>
+</div>
+
 ### ManimGL Render
 
 ```shell
@@ -56,3 +60,7 @@ uv run manimgl manimgl_visualization.py -c "#FFFFFF" ElectrodeStreamLines
 # Render
 uv run manimgl manimgl_visualization.py ElectrodeStreamLines -c "#FFFFFF" -w -r 3840x2160 --fps 60 --file_name animation --open
 ```
+
+<div align="center">
+	<video src="https://github.com/user-attachments/assets/b3e67d04-5aad-400c-a98e-a8d0f1727347" controls muted loop width="720" style="max-width: 100%; border-radius: 12px;"></video>
+</div>
