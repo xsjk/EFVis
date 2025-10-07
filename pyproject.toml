@@ -1,0 +1,11 @@
+[project]
+name = "efvis"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "audioop-lts; python_version >= '3.13'",
+    "joblib",
+    "manimgl",
+    "setuptools",
+]

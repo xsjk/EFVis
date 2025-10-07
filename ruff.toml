@@ -1,0 +1,2 @@
+[lint]
+extend-ignore = ["E402", "F403", "F405"]
